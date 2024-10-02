@@ -67,4 +67,5 @@ input[type="date"] {
 input[type="text"]:focus {
 	background-color: #7FE618;
 	font-style: italic;
+	font-size: 20px;
 }
